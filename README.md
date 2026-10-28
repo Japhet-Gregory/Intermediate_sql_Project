@@ -20,9 +20,9 @@
 
 🖥 **Query:** [`1_Who matters most.sql`](Scripts/1_Who%20matters%20most.sql)
 
-📈 **Visualization:** horizontal bar chart of revenue share by customer quintile ([`1_Who matters most.png`](images/1_Who%20matters%20most.png))
+📈 **Visualization:** horizontal bar chart of revenue share by customer quintile ([`1_Who matters most.png`](Images/1_Who%20matters%20most.png))
 
-![Who Matters Most?](images/1_Who%20matters%20most.png)
+![Who Matters Most?](Images/1_Who%20matters%20most.png)
 
 📊 **Key Findings:**
 
@@ -50,9 +50,9 @@
 
 🖥 **Query:** [`2_Do customers keep buying.sql`](Scripts/2_Do%20customers%20keep%20buying.sql)
 
-📈 **Visualization:** cohort heatmap, cohort by calendar year ([`2_Do customers keep buying.png`](images/2_Do%20customers%20keep%20buying.png))
+📈 **Visualization:** cohort heatmap, cohort by calendar year ([`2_Do customers keep buying.png`](Images/2_Do%20customers%20keep%20buying.png))
 
-![Do Customers Stay?](images/2_Do%20customers%20keep%20buying.png)
+![Do Customers Stay?](Images/2_Do%20customers%20keep%20buying.png)
 
 📊 **Key Findings:**
 - Read down any column and the cohorts look alike. In 2022 every cohort sits between 21.2% and 23.2%, and in 2023 between 16.9% and 19.6%
@@ -75,9 +75,9 @@
 
 🖥 **Query:** [`3_What do the best customer buy.sql`](Scripts/3_What%20do%20the%20best%20customer%20buy.sql)
 
-📈 **Visualization:** horizontal bar chart of the High minus Low gap by category ([`3_What do the best customer buy.png`](images/3_What%20do%20the%20best%20customer%20buy.png))
+📈 **Visualization:** horizontal bar chart of the High minus Low gap by category ([`3_What do the best customer buy.png`](Images/3_What%20do%20the%20best%20customer%20buy.png))
 
-![What Do the Best Customers Buy?](images/3_What%20do%20the%20best%20customer%20buy.png)
+![What Do the Best Customers Buy?](Images/3_What%20do%20the%20best%20customer%20buy.png)
 
 📊 **Key Findings:**
 - High customers lean toward four categories: Computers (+30.0 points; 49.6% of High spend vs 19.6% of Low), Home Appliances (+4.6), TV and Video (+2.2) and Cameras and camcorders (+2.1)
